@@ -1,0 +1,4 @@
+.hero, .serv {
+  background-color: var(--bs-secondary-bg);
+  border-radius: 1rem;
+}
