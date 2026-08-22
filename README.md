@@ -18,7 +18,7 @@ root/
 │   ├── img/
 │   │   ├── actually-cat.jpg
 │   │   └── icons/
-    │       └──favicon.ico 
+│   │       └──favicon.ico 
 │   └── styles.css
 ├── docs/
 │   ├── bitacora-git.md
