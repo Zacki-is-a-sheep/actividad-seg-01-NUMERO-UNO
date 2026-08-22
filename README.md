@@ -1,5 +1,13 @@
 # Taller Git & Github
 
+## Stack
+
+<p align="center">
+    <a>
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
+    </a>
+</p>
+
 ## Estructura
 
 ```
@@ -17,14 +25,6 @@ root/
 ├── index.html
 └── README.md
 ```
-
-## Stack
-
-<p align="center">
-    <a>
-        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
-    </a>
-</p>
 
 ## Autoría
 <p align="center">
