@@ -1,24 +1,45 @@
-# Proyecto web 2026-02
+# Taller Git & Github
 
-Breve descripcion del proyecto en tres a cinco lineas.
-Actividad Git y Github
+## Stack
 
-## Problema que resuelve
+<p align="center">
+    <a>
+        <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" />
+    </a>
+</p>
 
-Que necesidad atiende y para quien.
+## Estructura
 
-## Tecnologias
-
-HTML5, CSS3, JavaScript ES6, ASP.NET Core MVC, SQL Server con Entity Framework Core.
-
-## Como ejecutarlo en local
-
-```bash
-python -m http.server 8000
+```
+root/
+├── contacto/
+│   └── index.html
+├── resources/
+│   ├── img/
+│   │   ├── actually-cat.jpg
+│   │   └── icons/
+│   │       └──favicon.ico
+│   └── styles.css
+├── docs/
+│   ├── bitacora-git.md
+├── scripts/
+│   └── navbar.js
+├── servicios/
+│   └── index.html
+├── .gitignore
+├── index.html
+└── README.md
 ```
 
-Abrir http://localhost:8000
+## Autoría
+<p align="center">
 
-## Autor
+| Nombre               | Usuario           |
+| -------------------- | ----------------- |
+| Ana Sofía Henao      | @Zacki-is-a-sheep |
+| Miguel Ángel Holguín | @MiguelBtte       |
+| Angie Juliana Vargas | @Angie-VD         |
 
-Ana Sofía Henao Agudelo. Programacion Web (IF2003), grupo 603. IUE, 2026-02.
+</p>
+_Programacion Web (IF2003), grupo 603. IUE, 2026-02._
+
