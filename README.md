@@ -1,9 +1,5 @@
 # Taller Git & Github
 
-## Problema que resuelve
-
-
-
 ## Estructura
 
 ```
