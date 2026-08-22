@@ -16,7 +16,12 @@ root/
 │   └── index.html
 ├── resources/
 │   ├── img/
+│   │   ├── actually-cat.jpg
+│   │   └── icons/
+    │       └──favicon.ico 
 │   └── styles.css
+├── docs/
+│   ├── bitacora-git.md
 ├── scripts/
 │   └── navbar.js
 ├── servicios/
