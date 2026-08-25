@@ -1,4 +1,6 @@
-.hero, .serv {
+.hero, .serv, .contacto {
   background-color: var(--bs-secondary-bg);
   border-radius: 1rem;
+  border: 3px solid #6f42c1;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
 }
